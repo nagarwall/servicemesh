@@ -9,3 +9,7 @@ https://github.com/wardviaene/kubernetes-course
 https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/learn/lecture/11636728?start=0#overview
 
 https://cloudplex.io/blog-post/microservices-mesh-part-ii-istio-basics/
+
+https://dzone.com/articles/microservices-journey-from-netflix-oss-to-istio-se?edition=491296&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-06-19
+
+
