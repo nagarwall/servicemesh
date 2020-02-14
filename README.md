@@ -4,3 +4,6 @@ https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-g
 
 https://polarsquad.github.io/istio-workshop/
 
+https://github.com/wardviaene/kubernetes-course
+
+https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/learn/lecture/11636728?start=0#overview
